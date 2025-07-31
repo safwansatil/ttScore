@@ -14,8 +14,6 @@ Keep track of your table tennis matches with ease and style. This playful scorek
 - Choose the winning score before you start.
 - Hit reset to start a new game anytime.
 
-Enjoy fair play and friendly competition!
----
 
 ## Contact
 
